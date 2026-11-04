@@ -1,0 +1,5 @@
+numpy
+scikit-learn>=1.2
+scikit-image>=0.19
+matplotlib
+keras
